@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">校园二手交易</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">用户</string>
+    <string name="title_notifications">通知</string>
+    <string name="input_tip_account">请输入账号</string>
+    <string name="input_tip_password">请输入密码</string>
+    <string name="input_tip_code">请输入验证码</string>
+    <string name="input_email">请输入电子邮箱</string>
+    <string name="input_captcha">输入验证码</string>
+    <string name="get_captcha">发送验证码</string>
+</resources>
